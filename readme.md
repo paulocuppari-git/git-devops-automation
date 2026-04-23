@@ -27,3 +27,5 @@ Este laboratório tem como objetivo aplicar conceitos de **Infraestrutura como C
 - Criar ambientes reprodutíveis na nuvem
 
 ---
+
+OBS: teste adicional para edição no portal para commit portal > vm
